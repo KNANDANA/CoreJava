@@ -1,0 +1,2 @@
+APUID;ZNumber;GEMS_ID;BeelineID;Status;Last_Name;First_Name;Middle_Name;Suffix;User_Type;Start_Date;Termination_Date;AZCORP_ID;LDAP_ID;myID;ShortmyID;External_Notes_Address;Internal_Notes_Address;Notes_ID1;Notes_ID2;RACF_ID;Supervisor_LDAP_ID;New_Or_Existing;Company_Code;Cost_Center;GADR_USER_ID;EXEMPT_CODE
+T70000006;Z78555127;70000006;;Active;Changed156;NDC.PERF;;;EMP;;;USWTEST156;USWTEST156;NDC.PERF.CHANGED156;;inet.hpcs@gmail.com;;;;;;Existing;2130;;;
